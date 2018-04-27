@@ -7,7 +7,7 @@ ENV SERVICE_ARCHIVE=/opt/rancher-tools.tgz \
     GOPATH=/opt/src \
     GOBIN=/gopath/bin \
     RANCHER_TEMPLATE_VERSION=0.3-2 \
-    RANCHER_TEMPLATE_REPO=https://github.com/rawmind0/rancher-template.git
+    RANCHER_TEMPLATE_REPO=https://github.com/yanghaoyu/rancher-template.git
 
 # Add files
 ADD root /
